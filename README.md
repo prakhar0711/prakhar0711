@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prakhar.pratyush8010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bn3D7SE910D40liNYmJ-gROX_aSIF9nm/view?usp=sharing](https://drive.google.com/file/d/1bn3D7SE910D40liNYmJ-gROX_aSIF9nm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nInoiWZfcyTuyAk77Lth_yv9jDQEbsF1/view?usp=sharing)
 
 - 🔭 Looking for opportunities to make a difference in the tech field<br>
 
