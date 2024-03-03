@@ -9,7 +9,7 @@
 # 💫 About Me:
 - 👯 I'm a final semester CSE student with a passion for technology and web.<br>
 
-- 🌱 I’m currently learning **ReactJS, Rust**
+- 🌱 I’m currently learning **ExpressJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakhar0711?tab=repositories](https://github.com/prakhar0711?tab=repositories)
 
