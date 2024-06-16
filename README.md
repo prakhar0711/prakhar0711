@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakhar0711?tab=repositories](https://github.com/prakhar0711?tab=repositories)
 
-- 📫 How to reach me **prakhar.pratyush8010@gmail.com**
+- 📫 Reach me @**prakhar.pratyush8010@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nInoiWZfcyTuyAk77Lth_yv9jDQEbsF1/view?usp=sharing)
 
