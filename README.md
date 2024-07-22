@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/prakhar0711" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar0711?logo=twitter&style=for-the-badge" alt="prakhar0711" /></a> </p>
 
 # 💫 About Me:
-- 👯 I'm a final semester CSE student with a passion for technology and web.<br>
+- 👯 I'm a recent graduate with a passion for technology and web.<br>
 
 - 🌱 I’m currently exploring **Docker**,**Rust**
 
