@@ -1,7 +1,5 @@
 <h1>Hi there👋, I'm Prakhar</h1>
 
-<!--><p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar0711&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar0711" /> </p></!-->
-
 # 💫 About Me:
 - 👯 I'm a recent graduate with a passion for technology and web.<br>
 
