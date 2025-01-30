@@ -1,7 +1,7 @@
 <h1>Hi there👋, I'm Prakhar</h1>
 
 # 💫 About Me:
-- 👯 I'm a recent graduate with a passion for technology and web.<br>
+- 👯 I'm a Software Developer fresher with a passion for technology and web.<br>
 
 - 🌱 I’m currently exploring **Rust** and **Go**
 
