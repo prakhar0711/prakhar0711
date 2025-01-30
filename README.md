@@ -3,7 +3,7 @@
 # 💫 About Me:
 - 👯 I'm a recent graduate with a passion for technology and web.<br>
 
-- 🌱 I’m currently exploring **Docker**,**Rust** and **Go**
+- 🌱 I’m currently exploring **Rust** and **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakhar0711?tab=repositories](https://github.com/prakhar0711?tab=repositories)
 
