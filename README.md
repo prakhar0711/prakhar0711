@@ -3,7 +3,7 @@
 # 💫 About Me:
 - 👯 I'm a Software Developer fresher with a passion for technology and web.<br>
 
-- 🌱 I’m currently exploring **Rust** and **Go**
+- 🌱 I’m currently exploring **Rust** and **Zig**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakhar0711?tab=repositories](https://github.com/prakhar0711?tab=repositories)
 
